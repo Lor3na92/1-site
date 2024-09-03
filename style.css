@@ -24,9 +24,6 @@ display: flex;
     justify-content:center
 }
 
-.alinhar h1{
-    color: aliceblue;
-}
 
 .ftjuemel{
     display: flex;
@@ -165,11 +162,49 @@ margin: 20px;
 .titulo{
     display: flex;
     justify-content: center;
-    background-color:rgb(101, 101, 223);;
+    background-color:rgb(101, 101, 223);
 }
 
 .texto2{
     display: flex;
     justify-content: center;
     color: rgb(255, 255, 255);
+}
+
+.texto3{
+    display: flex;
+    justify-content: center;
+}
+
+.texto3 h1{
+    color: aliceblue;
+    background-color: rgb(101, 101, 223);
+}
+
+.texto4{
+    display: flex;
+    justify-content: center;
+}
+
+.texto4 h2{
+    color: aliceblue;
+    display: flex;
+    justify-content: center;
+}
+
+.projeto img{
+    height:400px;
+    width:300px;
+    margin: 5%;
+}
+
+.resumo{
+    display: flex;
+    justify-content: center;
+    color: aliceblue;
+}
+
+.linksite{
+    display: flex;
+    justify-content: center;
 }
