@@ -70,3 +70,91 @@ body{
     justify-content: center;
     font-size: xx-large;
 }
+
+.beetlejuice img{
+    height:400px;
+width:300px;
+}
+
+.beetlejuice{
+    display: flex;
+    flex-direction: column;
+}
+
+.beetlejuice h3{
+    color: aliceblue;
+    background-color:rgb(101, 101, 223) ;
+}
+.container{
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+}
+.listadefilmes h1{
+    display: flex;
+    justify-content: center;
+    color: rgb(255, 255, 255);
+    background-color:rgb(101, 101, 223);
+}
+
+.maxxxine{
+    display: flex;
+    flex-direction: column;
+}
+
+.maxxxine img{
+    height:400px;
+width:300px;
+margin: 20px;
+}
+
+.maxxxine h3{
+    color: rgb(255, 255, 255);
+    background-color:rgb(101, 101, 223);
+}
+.coraline{
+    display: flex;
+    flex-direction: column;
+}
+
+.coraline img{
+    height:400px;
+    width:300px;
+    margin: 20px;
+}
+
+.coraline h3{
+    color: rgb(255, 255, 255);
+    background-color:rgb(101, 101, 223);
+}
+.cisne{
+    display: flex;
+    flex-direction: column; 
+}
+
+.cisne img{
+    height:400px;
+    width:300px; 
+    margin: 20px; 
+}
+
+.cisne h3{
+    color: rgb(255, 255, 255);
+    background-color:rgb(101, 101, 223);
+}
+
+.dias{
+    display: flex;
+    flex-direction: column;
+}
+
+.dias img{
+    height:400px;
+    width:300px;
+    margin: 20px;  
+}
+
+.dias h3{
+    color: rgb(255, 255, 255);
+    background-color:rgb(101, 101, 223);
+}
