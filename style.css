@@ -40,6 +40,13 @@ width:300px;
     justify-content: center;
 }
 
+.fotos h1{
+    display: flex;
+    justify-content: center;
+    color: aliceblue;
+    background-color: rgb(75, 75, 187);
+}
+
 .texto1{
     display: flex;
     justify-content: space-around;
@@ -53,7 +60,7 @@ h1{
 }
 
 body{
-    background-color: rgb(27, 27, 74);
+    background-color: rgb(55, 55, 106);
 }
 
 .fotos h1{
@@ -204,7 +211,22 @@ margin: 20px;
     color: aliceblue;
 }
 
-.linksite{
+.atividades{
     display: flex;
     justify-content: center;
+}
+
+.atividades h1{
+    color: aliceblue;
+    background-color: rgb(101, 101, 223);
+}
+
+.texto5 h2{
+    color: aliceblue;
+}
+
+.Alanzoka img{
+    height:400px;
+    width:300px;
+    margin: 5%; 
 }
